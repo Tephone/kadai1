@@ -16,3 +16,7 @@ input.hoge{
 .bottan:hover{
     opacity: 0.5;
 }
+textarea{
+    resize: none;
+    width: 480px;
+}
