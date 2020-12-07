@@ -1,0 +1,18 @@
+.contact tr{
+    height: 5rem;
+}
+.contact th{
+    width: 150px;
+    height: 7rem;
+}
+input.hoge{
+    width: 480px;
+}
+.bottan{
+    color:white;
+    background-color: steelblue;
+    border-style: none;
+}
+.bottan:hover{
+    opacity: 0.5;
+}
